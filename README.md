@@ -31,14 +31,12 @@ Use cases include:
 - “Show all male patients from UK”
 
 ## **Installation & Dependencies**
-
-> Requires Python 3.10+
-
-```bash
+Requires Python 3.10+
+bash
 pip install pandas==2.5.3
 pip install tabulate==0.9.0
 pip install ollama==0.1.0
-pip install openpyxl      # Excel support
+pip install openpyxl     
 
 ## **Usage** 
 1.	Run the main script: python analytics.py
