@@ -33,16 +33,16 @@ Use cases include:
 ## **Installation & Dependencies**
 Requires Python 3.10+
 bash
-pip install pandas==2.5.3
-pip install tabulate==0.9.0
-pip install ollama==0.1.0
-pip install openpyxl     
+- pip install pandas==2.5.3
+- pip install tabulate==0.9.0
+- pip install ollama==0.1.0
+- pip install openpyxl     
 
 ## **Usage** 
-1.	Run the main script: python analytics.py
-2.	Enter your Excel file path (default: patient_data.xlsx).
-3.	Enter natural language questions about the dataset.
-4.	Results are displayed in tabular format.
+- Run the main script: python analytics.py
+- Enter your Excel file path (default: patient_data.xlsx).
+- Enter natural language questions about the dataset.
+- Results are displayed in tabular format.
 
 ## Author
 
